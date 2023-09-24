@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab03\Year_checker\bin\Debug\Year_checker.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab03\Year_checker\bin\Debug\Year_checker.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Year_checker\bin\Debug\Year_checker.pdb
+C:\Users\Глеб\source\repos\Labs\Lab03\Year_checker\obj\Debug\Year_checker.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Year_checker\obj\Debug\Year_checker.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Year_checker\obj\Debug\Year_checker.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Year_checker\obj\Debug\Year_checker.pdb

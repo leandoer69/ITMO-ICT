@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab02\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab02\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Глеб\source\repos\Labs\Lab02\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\Глеб\source\repos\Labs\Lab02\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab02\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab02\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Глеб\source\repos\Labs\Lab02\BankAccount\obj\Debug\BankAccount.pdb

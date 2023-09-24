@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\Labs\Lab07\Progression\Progression\bin\Debug\Progression.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab07\Progression\Progression\bin\Debug\Progression.exe
+C:\Users\Глеб\source\repos\Labs\Lab07\Progression\Progression\bin\Debug\Progression.pdb
+C:\Users\Глеб\source\repos\Labs\Lab07\Progression\Progression\obj\Debug\Progression.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab07\Progression\Progression\obj\Debug\Progression.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab07\Progression\Progression\obj\Debug\Progression.exe
+C:\Users\Глеб\source\repos\Labs\Lab07\Progression\Progression\obj\Debug\Progression.pdb
+C:\Users\Глеб\source\repos\Labs\Lab08\Progression\Progression\bin\Debug\Progression.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab08\Progression\Progression\bin\Debug\Progression.exe
+C:\Users\Глеб\source\repos\Labs\Lab08\Progression\Progression\bin\Debug\Progression.pdb
+C:\Users\Глеб\source\repos\Labs\Lab08\Progression\Progression\obj\Debug\Progression.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab08\Progression\Progression\obj\Debug\Progression.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab08\Progression\Progression\obj\Debug\Progression.exe
+C:\Users\Глеб\source\repos\Labs\Lab08\Progression\Progression\obj\Debug\Progression.pdb

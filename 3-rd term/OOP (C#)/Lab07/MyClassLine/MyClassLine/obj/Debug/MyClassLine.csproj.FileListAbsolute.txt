@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab07\MyClassLine\MyClassLine\bin\Debug\MyClassLine.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab07\MyClassLine\MyClassLine\bin\Debug\MyClassLine.exe
+C:\Users\Глеб\source\repos\Labs\Lab07\MyClassLine\MyClassLine\bin\Debug\MyClassLine.pdb
+C:\Users\Глеб\source\repos\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\MyClassLine.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\MyClassLine.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\MyClassLine.exe
+C:\Users\Глеб\source\repos\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\MyClassLine.pdb

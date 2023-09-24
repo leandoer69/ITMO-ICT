@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab03\Sum\bin\Debug\Sum.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab03\Sum\bin\Debug\Sum.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Sum\bin\Debug\Sum.pdb
+C:\Users\Глеб\source\repos\Labs\Lab03\Sum\obj\Debug\Sum.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Sum\obj\Debug\Sum.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Sum\obj\Debug\Sum.pdb

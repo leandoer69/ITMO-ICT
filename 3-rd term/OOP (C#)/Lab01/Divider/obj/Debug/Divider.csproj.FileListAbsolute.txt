@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab01\Divider\bin\Debug\Divider.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab01\Divider\bin\Debug\Divider.exe
+C:\Users\Глеб\source\repos\Labs\Lab01\Divider\bin\Debug\Divider.pdb
+C:\Users\Глеб\source\repos\Labs\Lab01\Divider\obj\Debug\Divider.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab01\Divider\obj\Debug\Divider.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab01\Divider\obj\Debug\Divider.exe
+C:\Users\Глеб\source\repos\Labs\Lab01\Divider\obj\Debug\Divider.pdb

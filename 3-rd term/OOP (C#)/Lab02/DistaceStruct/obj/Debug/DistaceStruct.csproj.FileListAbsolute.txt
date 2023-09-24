@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab02\DistaceStruct\bin\Debug\DistaceStruct.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab02\DistaceStruct\bin\Debug\DistaceStruct.exe
+C:\Users\Глеб\source\repos\Labs\Lab02\DistaceStruct\bin\Debug\DistaceStruct.pdb
+C:\Users\Глеб\source\repos\Labs\Lab02\DistaceStruct\obj\Debug\DistaceStruct.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab02\DistaceStruct\obj\Debug\DistaceStruct.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab02\DistaceStruct\obj\Debug\DistaceStruct.exe
+C:\Users\Глеб\source\repos\Labs\Lab02\DistaceStruct\obj\Debug\DistaceStruct.pdb

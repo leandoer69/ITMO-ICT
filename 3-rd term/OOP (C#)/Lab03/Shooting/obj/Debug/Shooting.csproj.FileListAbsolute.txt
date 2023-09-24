@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab03\Shooting\bin\Debug\Shooting.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab03\Shooting\bin\Debug\Shooting.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Shooting\bin\Debug\Shooting.pdb
+C:\Users\Глеб\source\repos\Labs\Lab03\Shooting\obj\Debug\Shooting.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Shooting\obj\Debug\Shooting.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Shooting\obj\Debug\Shooting.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Shooting\obj\Debug\Shooting.pdb

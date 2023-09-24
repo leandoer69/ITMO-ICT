@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab05\FillArray\bin\Debug\FillArray.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab05\FillArray\bin\Debug\FillArray.exe
+C:\Users\Глеб\source\repos\Labs\Lab05\FillArray\bin\Debug\FillArray.pdb
+C:\Users\Глеб\source\repos\Labs\Lab05\FillArray\obj\Debug\FillArray.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab05\FillArray\obj\Debug\FillArray.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab05\FillArray\obj\Debug\FillArray.exe
+C:\Users\Глеб\source\repos\Labs\Lab05\FillArray\obj\Debug\FillArray.pdb

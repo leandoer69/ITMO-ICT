@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab01\Square\Square\bin\Debug\Square.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab01\Square\Square\bin\Debug\Square.exe
+C:\Users\Глеб\source\repos\Labs\Lab01\Square\Square\bin\Debug\Square.pdb
+C:\Users\Глеб\source\repos\Labs\Lab01\Square\Square\obj\Debug\Square.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab01\Square\Square\obj\Debug\Square.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab01\Square\Square\obj\Debug\Square.exe
+C:\Users\Глеб\source\repos\Labs\Lab01\Square\Square\obj\Debug\Square.pdb

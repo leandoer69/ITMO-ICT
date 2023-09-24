@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab04\Equation\bin\Debug\Equation.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab04\Equation\bin\Debug\Equation.exe
+C:\Users\Глеб\source\repos\Labs\Lab04\Equation\bin\Debug\Equation.pdb
+C:\Users\Глеб\source\repos\Labs\Lab04\Equation\obj\Debug\Equation.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab04\Equation\obj\Debug\Equation.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab04\Equation\obj\Debug\Equation.exe
+C:\Users\Глеб\source\repos\Labs\Lab04\Equation\obj\Debug\Equation.pdb

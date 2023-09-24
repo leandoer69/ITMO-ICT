@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab03\PreCondition\bin\Debug\PreCondition.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab03\PreCondition\bin\Debug\PreCondition.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\PreCondition\bin\Debug\PreCondition.pdb
+C:\Users\Глеб\source\repos\Labs\Lab03\PreCondition\obj\Debug\PreCondition.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\PreCondition\obj\Debug\PreCondition.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\PreCondition\obj\Debug\PreCondition.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\PreCondition\obj\Debug\PreCondition.pdb

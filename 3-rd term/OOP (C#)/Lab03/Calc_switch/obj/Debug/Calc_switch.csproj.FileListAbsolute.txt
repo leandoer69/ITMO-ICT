@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab03\Calc_switch\bin\Debug\Calc_switch.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab03\Calc_switch\bin\Debug\Calc_switch.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Calc_switch\bin\Debug\Calc_switch.pdb
+C:\Users\Глеб\source\repos\Labs\Lab03\Calc_switch\obj\Debug\Calc_switch.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Calc_switch\obj\Debug\Calc_switch.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Calc_switch\obj\Debug\Calc_switch.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Calc_switch\obj\Debug\Calc_switch.pdb

@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab03\PostCondition\bin\Debug\PostCondition.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab03\PostCondition\bin\Debug\PostCondition.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\PostCondition\bin\Debug\PostCondition.pdb
+C:\Users\Глеб\source\repos\Labs\Lab03\PostCondition\obj\Debug\PostCondition.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\PostCondition\obj\Debug\PostCondition.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\PostCondition\obj\Debug\PostCondition.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\PostCondition\obj\Debug\PostCondition.pdb

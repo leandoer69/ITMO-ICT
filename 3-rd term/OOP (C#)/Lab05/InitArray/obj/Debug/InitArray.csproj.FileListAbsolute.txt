@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab05\InitArray\bin\Debug\InitArray.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab05\InitArray\bin\Debug\InitArray.exe
+C:\Users\Глеб\source\repos\Labs\Lab05\InitArray\bin\Debug\InitArray.pdb
+C:\Users\Глеб\source\repos\Labs\Lab05\InitArray\obj\Debug\InitArray.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab05\InitArray\obj\Debug\InitArray.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab05\InitArray\obj\Debug\InitArray.exe
+C:\Users\Глеб\source\repos\Labs\Lab05\InitArray\obj\Debug\InitArray.pdb

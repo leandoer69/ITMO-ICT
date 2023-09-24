@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab06\MyClass\bin\Debug\MyClass.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab06\MyClass\bin\Debug\MyClass.exe
+C:\Users\Глеб\source\repos\Labs\Lab06\MyClass\bin\Debug\MyClass.pdb
+C:\Users\Глеб\source\repos\Labs\Lab06\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab06\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab06\MyClass\obj\Debug\MyClass.exe
+C:\Users\Глеб\source\repos\Labs\Lab06\MyClass\obj\Debug\MyClass.pdb

@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab07\Igra\Igra\bin\Debug\Igra.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab07\Igra\Igra\bin\Debug\Igra.exe
+C:\Users\Глеб\source\repos\Labs\Lab07\Igra\Igra\bin\Debug\Igra.pdb
+C:\Users\Глеб\source\repos\Labs\Lab07\Igra\Igra\obj\Debug\Igra.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab07\Igra\Igra\obj\Debug\Igra.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab07\Igra\Igra\obj\Debug\Igra.exe
+C:\Users\Глеб\source\repos\Labs\Lab07\Igra\Igra\obj\Debug\Igra.pdb

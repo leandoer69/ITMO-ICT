@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Labs\Lab03\Evklid\bin\Debug\Evklid.exe.config
+C:\Users\Глеб\source\repos\Labs\Lab03\Evklid\bin\Debug\Evklid.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Evklid\bin\Debug\Evklid.pdb
+C:\Users\Глеб\source\repos\Labs\Lab03\Evklid\obj\Debug\Evklid.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Evklid\obj\Debug\Evklid.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Labs\Lab03\Evklid\obj\Debug\Evklid.exe
+C:\Users\Глеб\source\repos\Labs\Lab03\Evklid\obj\Debug\Evklid.pdb
